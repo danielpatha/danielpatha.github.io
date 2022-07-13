@@ -6,6 +6,11 @@ header {
   border-radius: 50%;
 }
 
+.profile{
+  font-size: 17px;
+  font-weight:700;
+}
+
 a {
   color:#3bc9db
 }
@@ -29,6 +34,5 @@ body {
 .contact{
   line-height:0px;
 }
-
 
 
