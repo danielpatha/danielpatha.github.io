@@ -2,7 +2,7 @@ header {
   background-color: #0c4a6e;
   letter-spacing: 2px;
 }
-img {
+.img {
   border-radius: 10px;
   float:center;
 }
@@ -13,7 +13,7 @@ a {
 
 h1 {
   font-family: Oswald, sans-serif;
-  font-size: 45px;
+  font-size: 60px;
   text-align: center;
   color: #f8f9fa
 }
@@ -35,17 +35,19 @@ body {
 }
 
 .k1 {
-  float: left;
+  float:right;
+ 
 }
 .k2 {
-  float:center;
+  float:right;
 }
 
 .k3 {
-  float: left;
+  float: right;
 }
 
 .contact{
   line-height:0px;
 }
+
 
