@@ -3,41 +3,45 @@ header {
   letter-spacing: 2px;
   
 }
+img {
+  border-radius: 50%;
+}
+a {
+  color:#3bc9db
+}
 
-.edu{
+h1 {
+  font-family: Oswald, sans-serif;
+  font-size: 45px;
+  text-align: center;
+  color: #f8f9fa
+}
+
+.edu {
   margin-top: 100px;
+  margin-right:200px;
+  
 }
 
 .edu-title {
-  margin-right: ;
-    
 }
-h1 {
-  font-family: Andale Mono, monospace;
-  font-size: 50px;
-  text-align: center;
-  color: #dee2e6
-    
-}
-
-
 h3 {
   font-family: Rosario, sans-serif;
   color: #0c4a6e;
 }
 body { 
-  background-color: #f1f3f5;
+  background-color: #f8f9fa;
 }
 
 .k1 {
   float: left;
 }
 .k2 {
-  float:right;
+  float:left;
 }
 
 .k3 {
-  margin-top: px;
+  float: left;
 }
 
 .contact{
