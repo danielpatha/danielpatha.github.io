@@ -3,8 +3,7 @@ header {
   letter-spacing: 2px;
 }
 .img {
-  border-radius: 10px;
-  float:center;
+  border-radius: 50%;
 }
 
 a {
@@ -18,14 +17,6 @@ h1 {
   color: #f8f9fa
 }
 
-.edu {
-  margin-top: 100px;
-  margin-right:200px;
-  
-}
-
-.edu-title {
-}
 h3 {
   font-family: Rosario, sans-serif;
   color: #0c4a6e;
@@ -34,20 +25,10 @@ body {
   background-color: #f8f9fa;
 }
 
-.k1 {
-  float:right;
- 
-}
-.k2 {
-  float:right;
-}
-
-.k3 {
-  float: right;
-}
 
 .contact{
   line-height:0px;
 }
+
 
 
