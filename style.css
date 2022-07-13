@@ -1,11 +1,12 @@
 header {
   background-color: #0c4a6e;
   letter-spacing: 2px;
-  
 }
 img {
-  border-radius: 50%;
+  border-radius: 10px;
+  float:center;
 }
+
 a {
   color:#3bc9db
 }
@@ -37,7 +38,7 @@ body {
   float: left;
 }
 .k2 {
-  float:left;
+  float:center;
 }
 
 .k3 {
